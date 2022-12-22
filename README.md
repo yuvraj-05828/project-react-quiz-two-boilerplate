@@ -9,7 +9,6 @@ In this exercise, the goal is to learn building a complete quiz app on a stage b
 
 - props and state,
 - how to work with event handlers.
-- work with maps and filters
 - work with json object.
 
 ## Getting started
