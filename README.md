@@ -35,20 +35,9 @@ Check below to see the overall output: You will be trying to replicate this
 ![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/quiz-two-react.gif)
 
 ### PROGRESSION 1 | KEEP IT IN AN ARRAY
-Remove the static component and create a json file called as questions. Make an array of 15 questions with options an answers.Keep your questions.json inside resources folder inside the src folder.
+Remove the static component and create a json file called as questions. An array of 15 questions is already provided to you, in this repository inside `resources/quizQuestion.json` file.
 
-```
-[
- {
-        "question": "Which is the only mammal that can’t jump?",
-        "optionA": "Dog",
-        "optionB": "Elephant",
-        "optionC": "Goat",
-        "optionD": "Lion",
-        "answer": "Elephant"
-    }
-]
-```
+
 ### PROGRESSION 2 | GO TO PREVIOUS
 Complete the event handler for previous button such that you should dynamically go back to the previous question in the array.
 
